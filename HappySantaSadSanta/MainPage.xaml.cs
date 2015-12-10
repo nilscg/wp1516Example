@@ -23,6 +23,8 @@ namespace HappySantaSadSanta
         public MainPage()
         {
             InitializeComponent();
+			
+			MessageBox.Show("It'x Xmas!");
 
             printFaceOutline();
             // Beispielcode zur Lokalisierung der ApplicationBar
