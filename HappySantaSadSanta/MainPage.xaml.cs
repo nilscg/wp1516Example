@@ -24,7 +24,7 @@ namespace HappySantaSadSanta
         {
             InitializeComponent();
 			
-			MessageBox.Show("It'x Xmas!");
+			MessageBox.Show("It'x Xmas! And this Feature is awesome!");
 
             printFaceOutline();
             // Beispielcode zur Lokalisierung der ApplicationBar
